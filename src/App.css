@@ -1,0 +1,25 @@
+.A{
+  justify-content: center;
+  text-align: center;
+  padding-top: 20%;
+  background-color: rgb(28, 53, 53);
+  height: 100vh;
+
+}
+
+.A1{
+   color: #00ffff;
+   font-size: 30px;
+   padding-bottom: 5%;
+   
+}
+
+.a{
+  background-color: white;
+  flex:auto;
+  justify-content: center;
+  gap: 12;
+  padding-top: 12;
+  margin: 0px 630px;
+  border-radius: 20px;
+}
